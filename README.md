@@ -63,7 +63,7 @@ O conjunto de dados contém **1000 registros**, cada um representando um estudan
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/desafio-enem
+   git clone https://github.com/aflorada/python_frequencias_medidas
    ```
 2. Instale as dependências:
    ```bash
